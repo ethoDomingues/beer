@@ -1,6 +1,6 @@
 name: beer
 description: A Simple Web Framework
-version: 0.1.0
+version: 0.1.0-1
 repository: https://github.com/ethoDomingues/beer
 
 environment:
